@@ -1,2 +1,2 @@
-# cnns
+# machinelarning
 ML - Convolutional Neural Networks
