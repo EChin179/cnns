@@ -5,7 +5,9 @@ Kaggle: https://www.kaggle.com/evelynchin
 
 **Table of Contents**
 
-**self-driving-car** -- (in progress) my current neural network to steer a self driving car. currently makes it a quarter around the track before diving into the water.
+**self-driving-car** -- (IN PROGRESS) my current neural network to steer a self driving car. currently makes it a quarter around the track before diving into the water. 
+
+Self Driving Car Video Demo Update: https://youtu.be/UuoOCzKG2l0 
 
 ## models
 1. **cat-image-recognition** -- a neural network that recognizes cat pictures from non cat pictures
