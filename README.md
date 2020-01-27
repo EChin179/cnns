@@ -10,19 +10,21 @@ Kaggle: https://www.kaggle.com/evelynchin
 
 Self Driving Car Video Demo Update: https://youtu.be/UuoOCzKG2l0 
 
+## kaggle
+1. **ASHRAE-energy-predictor** -- uses a LightGBM to predict building energy usage in chilled water, electric, hot water, and steam meters
+2. **house-prices-advanced-regression** -- implements ensembles and stacked models to predict house prices based on tens of features
+3. **nlp-disaster-tweets** -- uses an LSTM to classify whether or not a tweet is about a real disaster or not
+
 ## models
-1. **[KAGGLE] ASHRAE-energy-predictor** -- uses a LightGBM to predict building energy usage in chilled water, electric, hot water, and steam meters
-2. **cat-image-recognition** -- a neural network that recognizes cat pictures from non cat pictures
-3. **dinosaur-name-generator-rnn** -- a character level language model that generates new dinosaur names, as well as a shakespeare poem generator :)
-4. **emojify** -- chooses an emoji to go along with an inputted sentence using a 2 layer LSTM model and embedding matrices
-5. **emotion-detection-keras** -- a neural network built through Keras that detects 'happy' vs. 'not happy' faces
-6. **face-verification** -- implements face verification and recognition through building the triplet loss function and loading a pretrained Inception model for encoding
-7. **[KAGGLE] house-prices-advanced-regression** -- implements ensembles and stacked models to predict house prices based on tens of features
-8. **jazz-improvisation-lstm** -- uses an LSTM network to generate a jazz solo improvisation through Keras and a 78-value musical encoding system
-9. **mnist-numbers** -- a neural network that classifies handwritten digits
-10. **[KAGGLE] nlp-disaster-tweets** -- uses an LSTM to classify whether or not a tweet is about a real disaster or not
-11. **SIGNS-tf-cnn** -- a convolutional neural network that classifies the numbers 0 to 5 of the SIGNS dataset
-12. **traffic-signs** -- a neural network that classifies and recognizes traffic signs
+1. **cat-image-recognition** -- a neural network that recognizes cat pictures from non cat pictures
+2. **dinosaur-name-generator-rnn** -- a character level language model that generates new dinosaur names, as well as a shakespeare poem generator :)
+3. **emojify** -- chooses an emoji to go along with an inputted sentence using a 2 layer LSTM model and embedding matrices
+4. **emotion-detection-keras** -- a neural network built through Keras that detects 'happy' vs. 'not happy' faces
+5. **face-verification** -- implements face verification and recognition through building the triplet loss function and loading a pretrained Inception model for encoding
+6. **jazz-improvisation-lstm** -- uses an LSTM network to generate a jazz solo improvisation through Keras and a 78-value musical encoding system
+7. **mnist-numbers** -- a neural network that classifies handwritten digits
+8. **SIGNS-tf-cnn** -- a convolutional neural network that classifies the numbers 0 to 5 of the SIGNS dataset
+9. **traffic-signs** -- a neural network that classifies and recognizes traffic signs
 
 ## other-labs
 1. **art-generation-nst** -- implements the neural style transfer algorithm to generate novel artistic images
