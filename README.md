@@ -6,10 +6,6 @@ Kaggle: https://www.kaggle.com/evelynchin
 
 **Table of Contents**
 
-**self-driving-car** -- (IN PROGRESS) my current neural network to steer a self driving car. currently makes it a quarter around the track before diving into the water. 
-
-Self Driving Car Video Demo Update: https://youtu.be/UuoOCzKG2l0 
-
 ## kaggle
 1. **ASHRAE-energy-predictor** -- uses a LightGBM to predict building energy usage in chilled water, electric, hot water, and steam meters
 2. **house-prices-advanced-regression** -- implements ensembles and stacked models to predict house prices based on tens of features
